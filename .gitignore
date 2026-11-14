@@ -1,0 +1,19 @@
+# entorno virtual y cache de python
+.venv/
+__pycache__/
+*.pyc
+
+# exclusion de configuracion de claude
+.claude/
+
+# archivos crudos e intermedios no versionados
+data/raw/
+data/interim/
+data/processed/*.parquet
+
+# excepcion para el modelo agregado de power bi
+!data/processed/pbi_hechos_mensual.parquet
+
+# archivos temporales de power bi
+*.pbix.bak
+.pbi/
