@@ -166,3 +166,7 @@ Power BI Desktop. El modelo, las medidas DAX y el layout están especificados en
 
 ---
 Autor: [Faundezz21](https://github.com/Faundezz21) · Repositorio: [VortesInsight](https://github.com/Faundezz21/VortesInsight) · Datos: ChileCompra (licencia de datos abiertos del Estado de Chile)
+
+## Licencia
+
+Distribuido bajo licencia **MIT**. Ver [`LICENSE`](LICENSE).
